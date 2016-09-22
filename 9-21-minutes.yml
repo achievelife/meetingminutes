@@ -1,9 +1,10 @@
 date: "September 21, 2016"
 meeting_type: "group"
 attendance: ["drweiss", "jamesdro", "miaomiao", "fyang", "jrstrzal"]
-absent: ["jessetay"]
+absent: []
 excused_absences: [
   {ubit: "ywang77", reason: "Has work - prenotified group on slack channel"},
+  {ubit: "jessetay", reason: "Locked out of apartment"}
 ]
 task_progress: [
   {ubit: "jamesdro", progress: "Tasks assigned during meeting"},
