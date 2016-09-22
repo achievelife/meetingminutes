@@ -5,7 +5,22 @@ absent: ["jessetay"]
 excused_absences: [
   {ubit: "ywang77", reason: "Has work - prenotified group on slack channel"},
 ]
-task_progress: []
+task_progress: [
+  {ubit: "jamesdro", progress: "Tasks assigned during meeting"},
+  {ubit: "miaomiao", progress: "Tasks assigned during meeting"},
+  {ubit: "fyang", progress: "Tasks assigned during meeting"},
+  {ubit: "jrstrzal", progress: "Tasks assigned during meeting"},
+  {ubit: "jessetay", progress: "Tasks assigned during meeting"},
+  {ubit: "ywang77", progress: "Tasks assigned during meeting"}
+]
 issues: []
 Notes:  |
-  TA meeting is 5:30pm tomorrow
+  Assigned tasks for Spring 2.  They are:
+    - Basic GUI -> jessetay
+    - Design DB -> jamesdro
+    - Stub out API -> jamesdro
+    - GPS Tracking -> miaomiao & fyang
+    - Basic Map -> miaomiao & fyang
+    - Basic Task System -> jrstrzal & drweiss
+    - Activity log -> jrstrzal
+    - Web Frontend -> drweiss
