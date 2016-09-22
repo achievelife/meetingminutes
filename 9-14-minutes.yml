@@ -1,6 +1,6 @@
 date: "September 14, 2016"
 meeting_type: "group"
-attendance: ["drweiss", "jamesdro", "miaomiao", "fyang", "jrstrzal", "jesse"]
+attendance: ["drweiss", "jamesdro", "miaomiao", "fyang", "jrstrzal", "jessetay"]
 absent: []
 excused_absences: [
   {ubit: "ywang77", reason: "Has work - prenotified group on slack channel"}
@@ -10,7 +10,7 @@ task_progress: [
   {ubit: "Mandy", progress: "Make basic android gui and button to ping server by Saturday night"},
   {ubit: "fyang", progress: "Make basic android gui and button to ping server by Saturday night"},
   {ubit: "jrstrzal", progress: "Make youtube account and video by Sunday night"},
-  {ubit: "jesse", progress: "Make youtube account and video by Sunday night"}
+  {ubit: "jessetay", progress: "Make youtube account and video by Sunday night"}
 ]
 issues: []
 Notes:  |
