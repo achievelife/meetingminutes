@@ -7,7 +7,7 @@ excused_absences: [
 ]
 task_progress: [ 
   {ubit: "jamesdro", progress: "Create basic server with ping event and host on aws by Saturday night"},
-  {ubit: "Mandy", progress: "Make basic android gui and button to ping server by Saturday night"},
+  {ubit: "miaomiao", progress: "Make basic android gui and button to ping server by Saturday night"},
   {ubit: "fyang", progress: "Make basic android gui and button to ping server by Saturday night"},
   {ubit: "jrstrzal", progress: "Make youtube account and video by Sunday night"},
   {ubit: "jessetay", progress: "Make youtube account and video by Sunday night"}
