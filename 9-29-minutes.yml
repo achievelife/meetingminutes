@@ -1,0 +1,16 @@
+date: "September 29, 2016"
+meeting_type: "ta"
+attendance: ["drweiss", "jamesdro", "miaomiao", "fyang", "jrstrzal", "ywang77", "jessetay"]
+absent: []
+excused_absences: []
+task_progress: [
+  {ubit: "jamesdro", progress: "Created issues on GitHub for Sprint 2"},
+  {ubit: "miaomiao", progress: "Created issues on GitHub for Sprint 2"},
+  {ubit: "fyang", progress: "Created issues on GitHub for Sprint 2"},
+  {ubit: "jrstrzal", progress: "Created issues on GitHub for Sprint 2"},
+  {ubit: "jessetay", progress: "Created issues on GitHub for Sprint 2"},
+  {ubit: "ywang77", progress: "Created issues on GitHub for Sprint 2"}
+]
+issues: []
+Notes:  |
+  
