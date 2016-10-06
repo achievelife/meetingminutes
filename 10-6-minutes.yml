@@ -1,15 +1,20 @@
 date: "Ocotober 6, 2016"
 meeting_type: "ta"
-attendance: ["drweiss", "jamesdro", "miaomiao", "fyang", "jrstrzal", "ywang77", "jessetay"]
-absent: []
-excused_absences: []
+attendance: [jamesdro", "miaomiao", "fyang", "ywang77", "jrstrzal"]
+absent: ["jessetay"]
+excused_absences: [
+  {ubit: "drweiss", reason: "Had surgery and cannot drive."}
+]
 task_progress: [
-  {ubit: "jamesdro", progress: ""},
+  {ubit: "drweiss", progress: "Created the basic UI for the admin frontend that shows some of what I plan on implementing but so far has 0 functionality"},
+  {ubit: "jamesdro", progress: "Stubbed out API methods and created the DB tables"},
   {ubit: "miaomiao", progress: ""},
   {ubit: "fyang", progress: ""},
-  {ubit: "jrstrzal", progress: ""},
+  {ubit: "jrstrzal", progress: "Populated the activity log with example activities, also gives the basic look at how the activity log"},
   {ubit: "jessetay", progress: ""},
   {ubit: "ywang77", progress: ""}
 ]
 issues: []
 Notes:  |
+  Next meeting is this Saturday (10/8) @ 3PM.  Video is due
+  on Monday @ 9AM EST.
