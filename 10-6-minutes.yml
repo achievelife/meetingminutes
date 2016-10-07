@@ -1,7 +1,7 @@
 date: "Ocotober 6, 2016"
 meeting_type: "ta"
 attendance: ["jamesdro", "miaomiao", "fyang", "ywang77", "jrstrzal"]
-absent: ["jessetay"]
+absent: []
 excused_absences: [
   {ubit: "drweiss", reason: "Had surgery and cannot drive."},
   {ubit: "jessetay", reason: "Had effects of a concussion."}
