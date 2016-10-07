@@ -1,9 +1,10 @@
 date: "Ocotober 6, 2016"
 meeting_type: "ta"
-attendance: [jamesdro", "miaomiao", "fyang", "ywang77", "jrstrzal"]
+attendance: ["jamesdro", "miaomiao", "fyang", "ywang77", "jrstrzal"]
 absent: ["jessetay"]
 excused_absences: [
-  {ubit: "drweiss", reason: "Had surgery and cannot drive."}
+  {ubit: "drweiss", reason: "Had surgery and cannot drive."},
+  {ubit: "jessetay", reason: "Had effects of a concussion."}
 ]
 task_progress: [
   {ubit: "drweiss", progress: "Created the basic UI for the admin frontend that shows some of what I plan on implementing but so far has 0 functionality"},
