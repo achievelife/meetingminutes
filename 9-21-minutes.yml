@@ -7,6 +7,7 @@ excused_absences: [
   {ubit: "jessetay", reason: "Locked out of apartment"}
 ]
 task_progress: [
+  {ubit: "drweiss", progress: "Tasks assigned during meeting"},
   {ubit: "jamesdro", progress: "Tasks assigned during meeting"},
   {ubit: "miaomiao", progress: "Tasks assigned during meeting"},
   {ubit: "fyang", progress: "Tasks assigned during meeting"},
