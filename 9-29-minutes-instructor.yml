@@ -1,0 +1,18 @@
+date: "September 29, 2016"
+meeting_type: "ta"
+attendance: ["drweiss", "miaomiao", "fyang", "jrstrzal", "ywang77", "jessetay"]
+absent: []
+excused_absences: ["jamesdro", reason: "Has work - prenotified group on slack channel"]
+task_progress: [
+  {ubit: "drweiss", progress: "Created issues on GitHub for Sprint 2"},
+  {ubit: "jamesdro", progress: "Created issues on GitHub for Sprint 2"},
+  {ubit: "miaomiao", progress: "Created issues on GitHub for Sprint 2"},
+  {ubit: "fyang", progress: "Created issues on GitHub for Sprint 2"},
+  {ubit: "jrstrzal", progress: "Created issues on GitHub for Sprint 2"},
+  {ubit: "jessetay", progress: "Created issues on GitHub for Sprint 2"},
+  {ubit: "ywang77", progress: "Created issues on GitHub for Sprint 2"}
+]
+issues: []
+Notes:  |
+  Meeting w/ Jesse was earlier today (2PM). jrstrzal and 
+  drweiss were given access to the team server (achievelife.devnull.rocks)
