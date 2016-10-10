@@ -1,5 +1,5 @@
 date: "September 29, 2016"
-meeting_type: "ta"
+meeting_type: "instructor"
 attendance: ["drweiss", "miaomiao", "fyang", "jrstrzal", "ywang77", "jessetay"]
 absent: []
 excused_absences: ["jamesdro", reason: "Has work - prenotified group on slack channel"]
@@ -14,5 +14,5 @@ task_progress: [
 ]
 issues: []
 Notes:  |
-  Meeting w/ Jesse was earlier today (2PM). jrstrzal and 
-  drweiss were given access to the team server (achievelife.devnull.rocks)
+  First instructor meeting. Went over ideas for project and how to improve
+  and implement different ideas.
