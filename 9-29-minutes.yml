@@ -4,6 +4,7 @@ attendance: ["drweiss", "jamesdro", "miaomiao", "fyang", "jrstrzal", "ywang77", 
 absent: []
 excused_absences: []
 task_progress: [
+  {ubit: "drweiss", progress: "Created issues on GitHub for Sprint 2"},
   {ubit: "jamesdro", progress: "Created issues on GitHub for Sprint 2"},
   {ubit: "miaomiao", progress: "Created issues on GitHub for Sprint 2"},
   {ubit: "fyang", progress: "Created issues on GitHub for Sprint 2"},
