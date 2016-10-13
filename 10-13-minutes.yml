@@ -3,6 +3,14 @@ meeting_type: "ta"
 attendance: ["jamesdro", "miaomiao", "fyang", "ywang77", "jrstrzal"]
 absent: []
 excused_absences: []
-task_progress: []
+task_progress: [
+  {ubit: "drweiss", progress: "Went over Sprint 2 Progress"},
+  {ubit: "jamesdro", progress: "Went over Sprint 2 Progress"},
+  {ubit: "miaomiao", progress: "Went over Sprint 2 Progress"},
+  {ubit: "fyang", progress: "Went over Sprint 2 Progress"},
+  {ubit: "jrstrzal", progress: "Went over Sprint 2 Progress"},
+  {ubit: "jessetay", progress: "Went over Sprint 2 Progress"},
+  {ubit: "ywang77", progress: "Went over Sprint 2 Progress"}
+]
 issues: []
 Notes:  |
