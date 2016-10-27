@@ -1,1 +1,18 @@
 
+date: "Ocotober 27, 2016"
+meeting_type: "ta"
+attendance: ["jamesdro", "fyang", "ywang77", "jrstrzal", "drweiss", "jessetay"]
+absent: []
+excused_absences: ["miaomiao"]
+task_progress: [
+  {ubit: "drweiss", progress: "Went over Sprint 3 Progress"},
+  {ubit: "jamesdro", progress: "Went over Sprint 3 Progress"},
+  {ubit: "miaomiao", progress: "Went over Sprint 3 Progress"},
+  {ubit: "fyang", progress: "Went over Sprint 3 Progress"},
+  {ubit: "jrstrzal", progress: "Went over Sprint 3 Progress"},
+  {ubit: "jessetay", progress: "Went over Sprint 3 Progress"},
+  {ubit: "ywang77", progress: "Went over Sprint 3 Progress"}
+]
+issues: []
+Notes:  |
+  Possible meeting on saturday to merge branches
