@@ -1,0 +1,18 @@
+
+date: "Ocotober 20, 2016"
+meeting_type: "ta"
+attendance: ["fyang", "ywang77", "jrstrzal", "drweiss", "jessetay", "miaomiao"]
+absent: []
+excused_absences: ["jamesdro", reason: "ACM Internship talk."]
+task_progress: [
+  {ubit: "drweiss", progress: "Went over Sprint 3 Progress"},
+  {ubit: "jamesdro", progress: "Went over Sprint 3 Progress"},
+  {ubit: "miaomiao", progress: "Went over Sprint 3 Progress"},
+  {ubit: "fyang", progress: "Went over Sprint 3 Progress"},
+  {ubit: "jrstrzal", progress: "Went over Sprint 3 Progress"},
+  {ubit: "jessetay", progress: "Went over Sprint 3 Progress"},
+  {ubit: "ywang77", progress: "Went over Sprint 3 Progress"}
+]
+issues: []
+Notes:  |
+  Created app flow on board and pictures posted on slack. Tasks better defined and created on github.
