@@ -5,9 +5,9 @@ absent: []
 excused_absences: ["jamesdro", "jessetay"]
 task_progress: [
   {ubit: "drweiss", progress: "Merge your code so that it works by next TA meeting"},
-  {ubit: "miaomiao", progress: "Merge your code so that it works by next TA meeting"},
+  {ubit: "miaomiao", progress: "Merged"},
   {ubit: "fyang", progress: "Merge your code so that it works by next TA meeting"},
-  {ubit: "jrstrzal", progress: "Merge your code so that it works by next TA meeting"},
+  {ubit: "jrstrzal", progress: "Merged"},
   {ubit: "ywang77", progress: "Merge your code so that it works by next TA meeting"}
 ]
 issues: []
