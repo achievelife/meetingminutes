@@ -25,7 +25,7 @@ Notes:  |
   7. Map, If location moves outside of range end task(backend integration)(Mandy)
   8. Map onclick change location to center of screen(Mandy)
   9. Location Page, fill-in picture for location(yyang)
-  10. Location Page, list available activities at certain location(associated level of task)(backend integration)(jrstrzal)
+  10. Location Page, list available activities at certain location(associated level of task)(backend integration)(yyang)
   11. Location Page, if activity is beyond current level, grey or cross out.(yyang)
   12. Location Page, add buttons to enable and disable activities. (yyang)
   13. Location Page, onlick of the name of the activity takes you to activity description page.(jrstrzal)
