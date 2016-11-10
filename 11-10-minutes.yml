@@ -1,14 +1,13 @@
 date: "November 10, 2016"
 meeting_type: "ta"
-attendance: ["miaomiao", "fyang", "ywang77", "jrstrzal", "drweiss", "jessetay"]
+attendance: ["miaomiao", "fyang", "ywang77", "jrstrzal", "drweiss"]
 absent: []
-excused_absences: ["jamesdro"]
+excused_absences: ["jamesdro", "jessetay"]
 task_progress: [
   {ubit: "drweiss", progress: "Merge your code so that it works by next TA meeting"},
   {ubit: "miaomiao", progress: "Merge your code so that it works by next TA meeting"},
   {ubit: "fyang", progress: "Merge your code so that it works by next TA meeting"},
   {ubit: "jrstrzal", progress: "Merge your code so that it works by next TA meeting"},
-  {ubit: "jessetay", progress: "Merge your code so that it works by next TA meeting"},
   {ubit: "ywang77", progress: "Merge your code so that it works by next TA meeting"}
 ]
 issues: []
