@@ -1,1 +1,35 @@
+date: "November 10, 2016"
+meeting_type: "ta"
+attendance: ["miaomiao", "fyang", "ywang77", "jrstrzal", "drweiss", "jessetay"]
+absent: []
+excused_absences: ["jamesdro"]
+task_progress: [
+  {ubit: "drweiss", progress: "Merge your code so that it works by next TA meeting"},
+  {ubit: "miaomiao", progress: "Merge your code so that it works by next TA meeting"},
+  {ubit: "fyang", progress: "Merge your code so that it works by next TA meeting"},
+  {ubit: "jrstrzal", progress: "Merge your code so that it works by next TA meeting"},
+  {ubit: "jessetay", progress: "Merge your code so that it works by next TA meeting"},
+  {ubit: "ywang77", progress: "Merge your code so that it works by next TA meeting"}
+]
+issues: []
+Notes:  |
+  Went over merge progress that we discussed last TA meeting
 
+  As this is still relevant I will post this on this meeting as well.
+  List of what needs to be done for Sprint 4 and 5:
+  1. Set Main page to facebook login(Jesse)
+  2. If already logged skip the login page and proceed to the map, and have a valid session key.(Jesse)
+  3. Side menu, needs to be integrated into existing map.(fyang)
+  4. Functionality that needs to be added to side menu, Profile picture and name, Current active task(fyang), Quickstats(Your intelligence level, fitness level, etc.)
+  5. Add second scrollable view that contains other pages like; LeaderBoard, Activity Log, Settings.(fyang)
+  6. Map onlick location go to location page.(Mandy)
+  7. Map, If location moves outside of range end task(backend integration)(Mandy)
+  8. Map onclick change location to center of screen(Mandy)
+  9. Location Page, fill in picture for location()
+  10. Location Page, list available activities at certain location(associated level of task)(backend integration)
+  11. Location Page, if activity is beyond current level, grey or cross out.(jrstrzal)
+  12. Location Page, add buttons to enable and disable activities.(jrstrzal)
+  13. Location Page, onlick of the name of the activity takes you to activity description page.(jrstral)
+  14. Location Page, When you enable activity, we need to track the start time and location(yyang)
+  15. Description Page, Name of activity and a description of what that activity entails.(yyang)
+  16. Profile Page(continued...)
