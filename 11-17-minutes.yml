@@ -2,13 +2,14 @@ date: "November 17, 2016"
 meeting_type: "ta"
 attendance: ["miaomiao", "fyang", "jessetay", "jrstrzal", "ywang77"]
 absent: []
-excused_absences: ["jamesdro", "jessetay", "drweiss"]
+excused_absences: ["jamesdro", "drweiss"]
 task_progress: [
   {ubit: "drweiss", progress: "Redone api calls from db"},
-  {ubit: "miaomiao", progress: "Merged"},
-  {ubit: "fyang", progress: "Merge your code so that it works by next TA meeting"},
-  {ubit: "jrstrzal", progress: "Merged"},
-  {ubit: "ywang77", progress: "Merge your code so that it works by next TA meeting"}
+  {ubit: "jessetay", progress: "Still yet to complete merge"},
+  {ubit: "miaomiao", progress: "Merged, Complete task"},
+  {ubit: "fyang", progress: "Merged, Complete task"},
+  {ubit: "jrstrzal", progress: "Merged, Complete task"},
+  {ubit: "ywang77", progress: "Merged, Complete task"}
 ]
 issues: []
 Notes:  |
