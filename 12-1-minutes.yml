@@ -1,0 +1,16 @@
+date: "December 1, 2016"
+meeting_type: "ta"
+attendance: ["miaomiao", "fyang", "jessetay", "jrstrzal", "ywang77", "jamesdro", "drweiss"]
+absent: []
+excused_absences: []
+task_progress: [
+  {ubit: "drweiss", progress: "Worked on presentation"},
+  {ubit: "jessetay", progress: "Worked on presentation"},
+  {ubit: "miaomiao", progress: "Worked on presentation"},
+  {ubit: "fyang", progress: "Worked on presentation"},
+  {ubit: "jrstrzal", progress: "Worked on presentation"},
+  {ubit: "jamesdro", progress: "Worked on presentation"},
+  {ubit: "ywang77", progress: "Worked on presentation"}
+]
+issues: []
+Notes:  |
